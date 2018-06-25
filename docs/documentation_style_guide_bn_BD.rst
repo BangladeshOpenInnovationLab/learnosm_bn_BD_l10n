@@ -1,5 +1,4 @@
-Main article:
-`*http://learnosm.org/en/contribute/style/* <http://learnosm.org/en/contribute/style/>`__
+`Main article <http://learnosm.org/en/contribute/style/* <http://learnosm.org/en/contribute/style/>_`
 
 ***রচনারীতি নির্দেশিকা-***
 
@@ -47,7 +46,7 @@ Main article:
        মিল খুঁজে পায়।
 
 -  মেনু ও টুলবারের নির্দেশগুলি মোটা হরফে লিখতে হবে এবং যদি ছবি থাকে তা
-       লিখার পরে যোগ করতে হবে। যেমন: **Up Arrow** |image0|
+       লিখার পরে যোগ করতে হবে। যেমন: **Up Arrow** |image0|up_arrow|
 
 -  অনেকগুলি নির্দেশ > দিয়ে আলাদা করে লিখা হয়। যেমনঃ **File > New
        Project.**
