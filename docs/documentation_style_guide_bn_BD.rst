@@ -1,10 +1,9 @@
-`Main article <http://learnosm.org/en/contribute/style/* <http://learnosm.org/en/contribute/style/>_`
+রচনারীতি নির্দেশিকা
+=============
+`Main article <http://learnosm.org/en/contribute/style/>`_
 
-***রচনারীতি নির্দেশিকা-***
 
-এই ডকুমেন্টটি নতুন অধ্যায় সম্পাদনা ও উন্নয়নের একটি সাধারণ নির্দেশিকার
-সমষ্টি। যার লক্ষ্য প্রতিটি অংশের সঙ্গতিপূর্ণ অর্থের পাশাপাশি তা যেন সহজে
-পড়া যায় সে বিষয় নিশ্চিত করা।
+এই ডকুমেন্টটি নতুন অধ্যায় সম্পাদনা ও উন্নয়নের একটি সাধারণ নির্দেশিকার সমষ্টি। যার লক্ষ্য প্রতিটি অংশের সঙ্গতিপূর্ণ অর্থের পাশাপাশি তা যেন সহজে পড়া যায় সে বিষয় নিশ্চিত করা।
 
 **লেখার নিয়মরীতি-**
 
@@ -46,7 +45,7 @@
        মিল খুঁজে পায়।
 
 -  মেনু ও টুলবারের নির্দেশগুলি মোটা হরফে লিখতে হবে এবং যদি ছবি থাকে তা
-       লিখার পরে যোগ করতে হবে। যেমন: **Up Arrow** |image0|up_arrow|
+       লিখার পরে যোগ করতে হবে। যেমন: **Up Arrow** |up_arrow|
 
 -  অনেকগুলি নির্দেশ > দিয়ে আলাদা করে লিখা হয়। যেমনঃ **File > New
        Project.**
@@ -86,6 +85,6 @@
 -  **GH Issue on the topic -**
        `***https://github.com/hotosm/learnosm/issues/82*** <https://github.com/hotosm/learnosm/issues/82>`__
 
-.. |image0| image:: media/image2.png
+.. |up_arrow| image:: media/up_arrow.png
    :width: 0.50374in
    :height: 0.20833in
